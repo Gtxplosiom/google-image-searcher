@@ -1,2 +1,2 @@
-# google-image-searcher
+# Google Image Searcher
 Google image search companion application
